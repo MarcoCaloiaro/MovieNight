@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="margin_10_dp">10dp</dimen>
+    <dimen name="margin_15_dp">15dp</dimen>
+    <dimen name="margin_20_dp">20dp</dimen>
+    <dimen name="margin_30_dp">30dp</dimen>
+    <dimen name="margin_40_dp">40dp</dimen>
+    <dimen name="margin_50_dp">50dp</dimen>
+
+    <dimen name="text_size_16sp">16sp</dimen>
+    <dimen name="text_size_18sp">18sp</dimen>
+    <dimen name="text_size_30sp">30sp</dimen>
+
+    <dimen name="grid_image_dim">150dp</dimen>
+    <dimen name="watchlist_icon_dim">50dp</dimen>
+    <dimen name="separator_dim">1dp</dimen>
+
+    <dimen name="cardview_radius">50dp</dimen>
+    <dimen name="grid_radius">30dp</dimen>
+</resources>
