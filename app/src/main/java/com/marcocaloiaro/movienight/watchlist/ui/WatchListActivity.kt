@@ -15,7 +15,7 @@ import com.marcocaloiaro.movienight.details.model.ShowDetails
 import com.marcocaloiaro.movienight.details.ui.DetailActivity
 import com.marcocaloiaro.movienight.base.utils.Constants
 import com.marcocaloiaro.movienight.watchlist.utils.WatchListClickListener
-import com.marcocaloiaro.movienight.watchlist.data.WatchListAdapter
+import com.marcocaloiaro.movienight.watchlist.adapters.WatchListAdapter
 import com.marcocaloiaro.movienight.watchlist.model.WatchListState
 import com.marcocaloiaro.movienight.watchlist.viewmodel.WatchListViewModel
 import dagger.hilt.android.AndroidEntryPoint

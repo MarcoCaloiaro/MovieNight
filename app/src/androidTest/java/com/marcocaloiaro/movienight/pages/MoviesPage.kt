@@ -5,7 +5,7 @@ import androidx.test.espresso.action.ViewActions.click
 import androidx.test.espresso.contrib.RecyclerViewActions
 import com.marcocaloiaro.movienight.R
 import com.marcocaloiaro.movienight.base.TestPage
-import com.marcocaloiaro.movienight.showscreen.data.ShowViewHolder
+import com.marcocaloiaro.movienight.showscreen.adapters.ShowViewHolder
 
 class MoviesPage : TestPage() {
 

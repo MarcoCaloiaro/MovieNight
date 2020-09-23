@@ -11,7 +11,7 @@ import androidx.fragment.app.Fragment
 import androidx.fragment.app.viewModels
 import com.marcocaloiaro.movienight.*
 import com.marcocaloiaro.movienight.details.ui.DetailActivity
-import com.marcocaloiaro.movienight.showscreen.data.ShowAdapter
+import com.marcocaloiaro.movienight.showscreen.adapters.ShowAdapter
 import com.marcocaloiaro.movienight.showscreen.base.viewmodel.ShowsViewModel
 import com.marcocaloiaro.movienight.showscreen.model.Show
 import com.marcocaloiaro.movienight.base.utils.Constants

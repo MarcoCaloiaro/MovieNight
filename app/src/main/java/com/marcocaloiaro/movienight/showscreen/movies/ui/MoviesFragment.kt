@@ -10,11 +10,10 @@ import com.google.android.material.snackbar.Snackbar
 import com.marcocaloiaro.movienight.*
 import com.marcocaloiaro.movienight.showscreen.base.ui.BaseSearchFragment
 import com.marcocaloiaro.movienight.base.intent.MainIntent
-import com.marcocaloiaro.movienight.showscreen.data.ShowAdapter
+import com.marcocaloiaro.movienight.showscreen.adapters.ShowAdapter
 import com.marcocaloiaro.movienight.showscreen.model.Show
 import com.marcocaloiaro.movienight.showscreen.model.ShowsState
 import dagger.hilt.android.AndroidEntryPoint
-import kotlinx.android.synthetic.main.activity_main.*
 import kotlinx.android.synthetic.main.fragment_movies.*
 import kotlinx.android.synthetic.main.shows_presentation_view.*
 import kotlinx.coroutines.ExperimentalCoroutinesApi

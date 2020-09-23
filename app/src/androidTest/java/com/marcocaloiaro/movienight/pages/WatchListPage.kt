@@ -8,7 +8,7 @@ import androidx.test.espresso.matcher.ViewMatchers
 import com.marcocaloiaro.movienight.R
 import com.marcocaloiaro.movienight.base.TestPage
 import com.marcocaloiaro.movienight.utils.CustomRecyclerViewAction
-import com.marcocaloiaro.movienight.watchlist.data.WatchListViewHolder
+import com.marcocaloiaro.movienight.watchlist.adapters.WatchListViewHolder
 
 class WatchListPage : TestPage() {
 

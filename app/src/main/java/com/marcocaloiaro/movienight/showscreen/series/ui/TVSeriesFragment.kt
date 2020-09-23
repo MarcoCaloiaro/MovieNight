@@ -11,7 +11,7 @@ import com.marcocaloiaro.movienight.base.intent.MainIntent
 import com.marcocaloiaro.movienight.R
 import com.marcocaloiaro.movienight.showscreen.base.utils.ShowClickListener
 import com.marcocaloiaro.movienight.showscreen.base.ui.BaseSearchFragment
-import com.marcocaloiaro.movienight.showscreen.data.ShowAdapter
+import com.marcocaloiaro.movienight.showscreen.adapters.ShowAdapter
 import com.marcocaloiaro.movienight.showscreen.model.Show
 import com.marcocaloiaro.movienight.showscreen.model.ShowsState
 import dagger.hilt.android.AndroidEntryPoint

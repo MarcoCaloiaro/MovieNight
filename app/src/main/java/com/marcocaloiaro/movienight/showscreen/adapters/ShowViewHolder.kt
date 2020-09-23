@@ -1,4 +1,4 @@
-package com.marcocaloiaro.movienight.showscreen.data
+package com.marcocaloiaro.movienight.showscreen.adapters
 
 import android.view.View
 import android.widget.ImageView

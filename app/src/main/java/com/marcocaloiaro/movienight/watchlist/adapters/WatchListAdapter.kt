@@ -1,4 +1,4 @@
-package com.marcocaloiaro.movienight.watchlist.data
+package com.marcocaloiaro.movienight.watchlist.adapters
 
 import android.content.Context
 import android.view.LayoutInflater

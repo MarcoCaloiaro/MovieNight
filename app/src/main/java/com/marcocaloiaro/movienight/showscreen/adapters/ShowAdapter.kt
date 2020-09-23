@@ -1,4 +1,4 @@
-package com.marcocaloiaro.movienight.showscreen.data
+package com.marcocaloiaro.movienight.showscreen.adapters
 
 import android.content.Context
 import android.view.LayoutInflater

@@ -1,4 +1,4 @@
-package com.marcocaloiaro.movienight.watchlist.data
+package com.marcocaloiaro.movienight.watchlist.adapters
 
 import android.view.View
 import android.widget.ImageButton

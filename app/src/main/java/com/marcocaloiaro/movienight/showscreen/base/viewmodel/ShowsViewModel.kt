@@ -8,7 +8,6 @@ import com.marcocaloiaro.movienight.base.intent.MainIntent
 import com.marcocaloiaro.movienight.showscreen.model.ShowsState
 import com.marcocaloiaro.movienight.base.network.ShowsRepository
 import kotlinx.coroutines.CoroutineDispatcher
-import kotlinx.coroutines.Dispatchers
 import kotlinx.coroutines.ExperimentalCoroutinesApi
 import kotlinx.coroutines.channels.Channel
 import kotlinx.coroutines.flow.MutableStateFlow
